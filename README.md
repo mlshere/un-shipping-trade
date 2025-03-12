@@ -225,5 +225,5 @@ The analysis underscores the need for **adaptive trade strategies**, efficient *
 
 ## Interactive Visualization
 Explore the interactive Tableau dashboard for a deeper understanding of maritime shipping trends:  
-[📊 View the Tableau Dashboard](https://public.tableau.com/app/profile/sherezade.maqueda.lafuente/viz/Maritimeshippinganalysis/Shipping?publish=yes)
+[View the Tableau Dashboard](https://public.tableau.com/app/profile/sherezade.maqueda.lafuente/viz/Maritimeshippinganalysis/Shipping?publish=yes)
 
