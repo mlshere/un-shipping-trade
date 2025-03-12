@@ -223,4 +223,7 @@ Overall, while ARIMA provides useful insights into trade movements, its accuracy
 ### Final insights
 The analysis underscores the need for **adaptive trade strategies**, efficient **port infrastructure**, and **data-driven decision-making** to navigate the complexities of global maritime trade.
 
+## Interactive Visualization
+Explore the interactive Tableau dashboard for a deeper understanding of maritime shipping trends:  
+[📊 View the Tableau Dashboard](https://public.tableau.com/app/profile/sherezade.maqueda.lafuente/viz/Maritimeshippinganalysis/Shipping?publish=yes)
 
